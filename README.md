@@ -1,6 +1,9 @@
 # anon-github
 Simply use a anonymous github account for paper submissions
 
+# Requirements
+- `Docker`
+
 # How to
 1. Create an anonymous github account
 2. Create a ssh keypair, add public key to your new github account
