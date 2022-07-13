@@ -2,7 +2,7 @@
 Simply use a anonymous github account for paper submissions
 
 # How to
-1. Create a anonymous github account
+1. Create an anonymous github account
 2. Create a ssh keypair, add public key to your new github account
 3. Place `id_rsa` and `id_rsa.pub` into this folder
 4. Create a file `env` and add your anonymous username like so: `GITHUB_USERNAME=yourusername`
